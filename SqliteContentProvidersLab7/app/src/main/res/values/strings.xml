@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SqliteContentProvidersLab7</string>
+    <string name="app_title">Student Database App</string>
+    <!-- Strings related to students -->
+    <string name="prompt_student">Student Name</string>
+    <string name="prompt_course">Course</string>
+    <string name="prompt_year">Year Level</string>
+    <string name="prompt_id">ID (use to update or delete)</string>
+    <string name="action_add_data">ADD</string>
+    <string name="action_find_data">FIND</string>
+    <string name="action_view_data">VIEW ALL STUDENTS</string>
+    <string name="action_update_data">UPDATE</string>
+    <string name="action_delete_data">DELETE</string>
+    <string name="close_app">CLOSE</string>
+    <string name="switch_nameid">Find student using name</string>
+</resources>
